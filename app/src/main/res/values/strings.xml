@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="please_enter_your_information">Please Enter your Information</string>
+    <string name="gender">Gender :</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="full_name">Full Name :</string>
+    <string name="fellow">Fellow</string>
+    <string name="fella">Fella</string>
+    <string name="little_guy">Little Guy</string>
+    <string name="big_guy">Big Guy</string>
+    <string name="dangerous_criminal">Dangerous Criminal</string>
+    <string name="student_id">Student ID :</string>
+    <string name="school">School :</string>
+    <string name="e_mail">E-Mail :</string>
+    <string name="phone_number">Phone Number :</string>
+    <string name="register">Register</string>
+</resources>
